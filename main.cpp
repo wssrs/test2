@@ -1,5 +1,5 @@
 //判断快乐数
-
+//发放
 #include<iostream>
 #include<vector>
 using namespace std;
